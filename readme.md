@@ -1,1 +1,1 @@
-# React Boilerplate
+# Learn Redux
